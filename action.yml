@@ -165,3 +165,5 @@ runs:
 
         echo "Available storage:"
         df -h
+        echo "Available inodes:"
+        df -ih
